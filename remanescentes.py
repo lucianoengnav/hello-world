@@ -1,3 +1,4 @@
+# Inserido comentário para fins de visualização no curso
 from glpiOps import print_os
 from glpiOps import openDriver
 from glpiOps import login
